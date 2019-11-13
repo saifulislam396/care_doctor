@@ -1,0 +1,468 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*    header start*/
+    .custom-img {
+    width: 150px;
+}
+/*    header end*/
+/*    banner start*/
+    .banner-content {
+    padding-top: 38px;
+}
+    .banner-content h1 {
+     line-height: 40px; 
+        font-size: 36px;
+}
+    .button {
+    text-align: center;
+        padding-left: 0;
+}
+/*    slider start*/
+    .cid {
+    bottom: -80px !important;
+    margin-left:0!important;
+    right: 0!important;
+    left: 0!important;
+    padding-left: 42px;
+}
+.custom-slide {
+    width: 15px!important;
+    height: 15px!important;
+}
+
+/*    slider end*/
+    /*    banner end*/
+/*    our service start*/
+    .best-treatment {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+/*    our service end*/
+/*    wcu start*/
+    .wcu-title {
+    padding-top: 30px;
+}
+    .wcu-title p {
+     letter-spacing: 0; 
+     word-spacing: 0; 
+}
+    .professional {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+    .happy-customer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+/*    our success start*/
+/*    our success end*/
+    .happy-customer .img-custom {
+    width: 70px;
+}
+    .happy-customer h2 {
+    font-size: 31px;
+    padding-top: 9px;
+    padding-left: 6px;
+}
+    .hr-custom {
+    width: 85px;
+    margin-top: 2px;
+}
+    .happy-customer p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    padding-top: 0;
+    word-spacing: 0;
+}
+/*    wcu end*/
+/*how we works start*/
+.hww-c-title {
+    padding-top: 32px;
+}
+.hww-c-title {
+    text-align: center;
+}
+.hww-c-title p {
+    padding-bottom: 22px;
+    word-spacing:0px;
+    letter-spacing:0px;
+}
+.hww-c-title h1 {
+    font-size: 30px;
+}
+.hww-contenr img {
+    width: 360px;
+}
+.hww-l-btn {
+    text-align: center;
+    padding-top: 10px;
+}
+.hww-contenr p {
+    padding-top: 10px;
+}
+ .hww-contenr {
+    padding-bottom: 38px;
+}
+.hww-l-btn {
+    padding: 0 0 31px 0;
+}
+.right-side {
+    padding: 14px 0;
+    text-align: center
+}
+.btn-custom-iii {
+    width: 214px;
+}
+/*how we works end*/
+    
+/*    gallery start*/
+    .g-img{
+        width: 260px;
+    }
+    .sec-row-all {
+    padding-left: 31px;
+}
+/*    gallery end*/
+/* our team start   */
+    .all-tem-mate {
+    padding: 40px 0;
+}
+    .our-team-title p {
+    padding-bottom: 30px;
+}
+.all-list {
+    padding-left: 90px;
+    padding-bottom: 60px;
+    margin-top: -15px;
+}
+/* our team end   */
+/*    patient special offer*/
+.cntn-btn-all {
+    padding: 33px 0 0 0;
+}
+.content-btn p {
+    font-weight: 600;
+    font-size: 11px;
+}
+.my-team-btn {
+    margin: 0 0 0 -23px;
+}
+.btn-custom {
+    width: 84px;
+    height: 30px;
+    border-radius: 45px;
+    font-weight: 500;
+    font-size: 9px;
+}
+
+/*    patient special offer*/
+/*    our services 2 start*/
+ section .section-title {
+    padding-top: 17px;
+} 
+.section-title p {
+    font-size: 14px;
+    margin-bottom: 2px;
+}    
+.section-title h4 {
+    font-size: 27px;
+    padding-bottom: 20px;
+
+}
+/*    our services 2 end*/
+    /*    form start*/
+.form-title {
+    padding: 35px 25px 13px 20px;
+    font-size: 29px;
+}
+.form-btn {
+    padding: 10px 10px 0px 0;
+}
+.get-in-touch h1 {
+    padding: 35px 0px 12px 98px;
+    font-size: 27px;
+}
+.git {
+    padding: 0 2 2 0;
+}
+.git i {
+    padding: 0 0 0 40px;
+}
+.custom-icon {
+    font-size: 47px;
+}
+.social-icon-menu ul li a i {
+    font-size: 20px;
+    padding: 0 0 0 31px;
+}
+.social-icon-menu {
+    padding: 3px 0 10px 64px;
+}
+/*    form end*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*banner start*/
+    .banner-content {
+    padding-top: 90px;
+}
+/*    slider start*/
+.cid {
+    bottom: -110px !important;
+     margin-left: 0!important; 
+     right: 0!important; 
+    left: -30px!important;
+}
+.custom-slide {
+    width: 17px!important;
+    height: 17px!important;
+}
+/*    slider end*/
+    /*banner end*/
+/*    our service start*/
+    .best-treatment {
+    padding-top: 40px;
+    padding-bottom: 24px;
+}
+    .best-treatment h2 {;
+    font-size: 29px;
+}
+/*    our service end*/
+/*wcu start   */
+.professional h2 {
+    padding-top: 10px;
+}
+.happy-customer {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+/*wcu end   */
+/*how we works start*/
+/*how we works start*/
+.hww-c-title {
+    padding-top: 37px;
+}
+.hww-l-btn {
+    padding: 21px 0 0 44px;
+}
+.hww-l-btn {
+    text-align: center;
+}
+    .hww-contenr p {
+    padding-top: 10px;
+}
+    
+/*right*/
+.right-side {
+    padding: 37px 0;
+}
+.btn-text {
+    padding: 10px 0;
+    text-align: center;
+}
+.three-btn {
+    text-align: center;
+    margin: 10px;
+}
+/*how we works end*/
+/*how we works end*/      
+/* gallery start   */
+    .sec-row-all {
+    padding-left: 103px;
+}
+/* gallery end   */
+
+/*our team start*/
+    .all-tem-mate {
+    padding: 48px 0;
+}
+.single-member {
+    padding-bottom: 60px;
+}
+    .our-team-title p {
+    padding-top: 11px;
+    padding-bottom: 27px;
+}
+    .all-list {
+    padding-left: 200px;
+    padding-bottom: 90px;
+}
+    .all-list:last-child{
+       padding-bottom: 0px; 
+    }
+/*our team end*/
+/*    patient special offer*/
+.content-btn p {
+    font-weight: 600;
+    font-size: 15px;
+}
+.cntn-btn-all {
+    padding: 27px 0 0 0;
+}
+.btn-custom {
+    width: 84px;
+    height: 30px;
+    border-radius: 45px;
+    font-weight: 500;
+    font-size: 9px;
+}
+/*    patient special offer*/
+/*    form start*/
+.form-title {
+    padding: 35px 70px 13px 19px;
+    font-size: 29px;
+}
+.form-btn {
+    padding: 10px 10px 0px 0;
+}
+.get-in-touch h1 {
+    padding: 35px 10px 19px 153px;
+    font-size: 28px;
+}
+.git {
+    padding: 10px 80px;
+}
+.git i {
+    padding: 0 0 14px 56px;
+    transition: .5s;
+}
+.social-icon-menu {
+    padding: 3px 0 10px 64px;
+}
+.social-icon-menu ul li a i {
+    padding: 2px 6px 0 54px;
+}
+/*    form end*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*banner start*/
+    .banner-content {
+    padding-top: 100px;
+}
+/*slider start*/
+.cid {
+    bottom: -90px !important;
+    right: 350px!important;
+    left: -60px!important;
+}
+.custom-slide {
+    width: 17px!important;
+    height: 17px!important;
+}
+/*slider end*/
+    .button {
+    padding-left: 70px;
+}
+.banner-content p {
+     word-spacing: 0px; 
+
+}
+/*    best treatment start*/
+    
+    .best-treatment {
+        padding-top: 40px;
+    padding-bottom: 40px;
+    /*    best treatment end*/
+/*            our success start*/
+            
+/*            our success end*/
+    }
+/*our success start*/
+    .happy-customer {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+/*our success end*/
+/*how we works start*/
+.hww-c-title {
+    padding-top: 37px;
+}
+.hww-l-btn {
+    padding: 21px 0 0 44px;
+}
+/*right*/
+.right-side {
+    padding: 37px 0;
+}
+.btn-text {
+    padding: 10px 0;
+    text-align: center;
+}
+.three-btn {
+    text-align: center;
+    margin: 10px;
+}
+/*how we works end*/
+    
+/*    our team start*/
+    .all-tem-mate {
+    padding: 50px 0;
+}
+.all-list {
+     padding: 0px; 
+}
+.backside .card .card-title {
+    font-size: 18px;
+}
+.our-team-title p {
+    padding-bottom: 26px;
+}
+.single-member h3 {
+    padding-top: 7px;
+    font-size: 20px;
+}
+/*    our team end*/
+/*patient special offer start*/
+.cntn-btn-all {
+    padding: 28px 0;
+}
+.content-btn p {
+    font-size: 17px;
+}
+.content-btn {
+    padding: 10px 0 0 0;
+}
+/*patient special offer end*/
+/*    get in touch start*/
+.form-btn {
+    padding: 10px 10px 16px 0;
+}
+.git {
+    padding: 20px 40px;
+    
+}
+.get-in-touch h1 {
+   padding: 0px 0 16px 147px
+}
+.git {
+    margin-right: -65px;
+}
+.git i {
+    padding: none; 
+}
+.social-icon-menu ul li a i {
+    padding: 0px 40px;
+    padding-bottom: 30px;
+}
+/*    get in touch end*/
+/*    footer*/
+    .footer-p {
+    font-size: 8.5px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    /*how we works start*/
+
+/*how we works end*/
+}
